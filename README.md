@@ -10,6 +10,8 @@ The goal of the project is to extract insights from real transactional data to b
 
 ## 🔧 Tools & Technologies
 
+![image](https://github.com/user-attachments/assets/ff2d634a-d915-4514-aac5-09182fbf9684)
+
 - **Python** – Data processing & analysis  
 - **PostgreSQL** – Data storage & transformation  
 - **Power BI** – Interactive dashboards & visual storytelling  
